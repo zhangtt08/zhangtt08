@@ -1,7 +1,14 @@
-# 张天腾 · AI 工具与 Agent 项目 / AI Tools & Agent Projects
+# 张天腾 Zhang Tianteng · AI 工具与 Agent 项目 / AI Tools & Agent Projects
 
-本地优先、可离线运行的桌面软件与 AI 工程工具。全部项目均可一键克隆运行。
-Local-first desktop software and AI engineering tools. Every repo clones and runs.
+**张天腾（Zhang Tianteng）**，作品集品牌 **ZTT.** — AI 应用、Agent 与自动化工具开发者，兼品牌策划与内容创作。重庆交通大学广告学本科（2027 届）。
+**Zhang Tianteng (ZTT.)** — builds local-first AI applications, agents and automation tools; also works in brand planning and content creation.
+
+- 🌐 个人作品集 / Portfolio：**[zhangtianteng.xyz](https://zhangtianteng.xyz)** — 17 个软件工具案例、9 份品牌策划提案（DIOR、SHARGE、POP MART 等）、AIGC 影像与音乐作品，附可检索的 AI 助手。
+- 📄 经历与项目事实 / Experience & facts：[zhangtianteng.xyz/profile/](https://zhangtianteng.xyz/profile/) · 简历 [zhangtianteng.xyz/downloads/zhangtianteng-resume.pdf](https://zhangtianteng.xyz/downloads/zhangtianteng-resume.pdf)
+- 📮 联系 / Contact：994605656tt@gmail.com
+
+本地优先、可离线运行的桌面软件与 AI 工程工具。全部公开项目均可一键克隆运行。
+Local-first desktop software and AI engineering tools. Every public repo clones and runs.
 
 ## 🎬 媒体与创作工具 / Media & Creative Tools
 
@@ -26,12 +33,13 @@ Local-first desktop software and AI engineering tools. Every repo clones and run
 | [agent-diagnostic-center](https://github.com/zhangtt08/agent-diagnostic-center) | Agent 项目静态体检：32 项能力评分 + 文件:行号级建议 / Static audit scoring 32 agent capabilities with file:line evidence |
 | [agent-context-bridge](https://github.com/zhangtt08/agent-context-bridge) | 跨机器交接项目上下文：打包-校验-恢复 / Cross-machine project handoff for AI coding agents |
 | [application-form-assistant](https://github.com/zhangtt08/application-form-assistant) | 简历自动投填 Edge 扩展：永不自动提交、隐私优先 / Privacy-first job-application autofill (MV3), never auto-submits |
-| [geo-workbench](https://github.com/zhangtt08/geo-workbench) | GEO/AEO 内容生产与多平台投放工作台（私有/private）|
+| geo-workbench（私有 / private） | GEO/AEO 内容生产与多平台投放工作台 / GEO content production & multi-platform publishing workbench |
 
 ## 🌐 站点与个人 / Sites & Personal
 
-- [portfolio-site](https://github.com/zhangtt08/portfolio-site) — 个人作品集网站源码（私有/private）· [zhangtianteng.xyz](https://zhangtianteng.xyz)
-- [personal-agent-hub](https://github.com/zhangtt08/personal-agent-hub) — 本机个人 Agent（私有/private）
+- **[zhangtianteng.xyz](https://zhangtianteng.xyz)** — 个人作品集：AI 应用与软件、品牌策划提案、摄影、影像与 AIGC 创作 / Portfolio: AI applications, software, brand proposals, photography and AIGC works
+- [portfolio-site](https://github.com/zhangtt08/portfolio-site) — 本站源码（私有/private）
+- personal-agent-hub（私有 / private）— 本机个人 Agent / Personal agent on your own machine
 
 ---
-🌐 优先中文阅读？各仓库内均有 `README.zh-CN.md` 完整中文文档。
+🌐 优先中文阅读？各公开仓库内均有 `README.zh-CN.md` 完整中文文档。网站与 AI 助手均以张天腾 / Zhang Tianteng 署名。

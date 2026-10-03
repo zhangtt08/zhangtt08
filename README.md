@@ -1,14 +1,28 @@
-# 张天腾 Zhang Tianteng · AI 工具与 Agent 项目 / AI Tools & Agent Projects
+# 张天腾 Zhang Tianteng · 业务自动化与 AI 应用 / Business Automation & Applied AI
 
 **张天腾（Zhang Tianteng）**，作品集品牌 **ZTT.** — AI 应用、Agent 与自动化工具开发者，兼品牌策划与内容创作。重庆交通大学广告学本科（2027 届）。
 **Zhang Tianteng (ZTT.)** — builds local-first AI applications, agents and automation tools; also works in brand planning and content creation.
 
-- 🌐 个人作品集 / Portfolio：**[zhangtianteng.xyz](https://zhangtianteng.xyz)** — 17 个软件工具案例、9 份品牌策划提案（DIOR、SHARGE、POP MART 等）、AIGC 影像与音乐作品，附可检索的 AI 助手。
+- 🌐 个人作品集 / Portfolio：**[zhangtianteng.xyz](https://zhangtianteng.xyz)** — 20 个软件项目、8 份品牌策划提案（DIOR、SHARGE、POP MART 等）、AIGC 影像与音乐作品，附可检索的 AI 助手。
 - 📄 经历与项目事实 / Experience & facts：[zhangtianteng.xyz/profile/](https://zhangtianteng.xyz/profile/) · 简历 [zhangtianteng.xyz/downloads/zhangtianteng-resume.pdf](https://zhangtianteng.xyz/downloads/zhangtianteng-resume.pdf)
 - 📮 联系 / Contact：994605656tt@gmail.com
 
 本地优先、可离线运行的桌面软件与 AI 工程工具。全部公开项目均可一键克隆运行。
 Local-first desktop software and AI engineering tools. Every public repo clones and runs.
+
+## 从真实问题认识我的项目 / Start with the problem
+
+我学广告，也喜欢拍摄、剪辑和调色。现在最投入的是业务自动化：把同事每天重复做的下载、填表、素材整理拆成具体步骤，再做成用得上的工具。
+
+| 想解决的问题 | 项目与完整介绍 |
+|---|---|
+| 重复下载、匹配、打标和送审 | [达人素材全链路 Agent：流程拆解、工具调用和人工复核](https://zhangtianteng.xyz/software/chameleon-labeling-workflow/) |
+| 视频、图文选题缺少灵感 | [TrendScope：热点收集、去重、话题分析与选题](https://zhangtianteng.xyz/software/trendscope/) |
+| 多 Agent 怎样从需求推进到交付 | [MAO：执行、验收与失败修复循环](https://zhangtianteng.xyz/software/multi-agent-orchestrator/) |
+| 换电脑或换 Agent 后丢失项目上下文 | [ACB：代码状态、交接包与接手说明](https://zhangtianteng.xyz/software/agent-context-bridge/) |
+| 本机工具越来越多，缺少统一调用入口 | [WorkflowHub：工具目录、工作流与执行记录](https://zhangtianteng.xyz/software/workflowhub/) |
+
+[先看三个代表项目](https://zhangtianteng.xyz/selected/) · [全部 99 件作品](https://zhangtianteng.xyz/works/) · [关于我](https://zhangtianteng.xyz/about/)
 
 ## 🎬 媒体与创作工具 / Media & Creative Tools
 
@@ -38,7 +52,7 @@ Local-first desktop software and AI engineering tools. Every public repo clones 
 ## 🌐 站点与个人 / Sites & Personal
 
 - **[zhangtianteng.xyz](https://zhangtianteng.xyz)** — 个人作品集：AI 应用与软件、品牌策划提案、摄影、影像与 AIGC 创作 / Portfolio: AI applications, software, brand proposals, photography and AIGC works
-- [portfolio-site](https://github.com/zhangtt08/portfolio-site) — 本站源码（私有/private）
+- portfolio-site — 本站源码（私有/private）
 - personal-agent-hub（私有 / private）— 本机个人 Agent / Personal agent on your own machine
 
 ---

@@ -33,6 +33,7 @@ Local-first desktop software and AI engineering tools. Every public repo clones 
 | [vocal-separator](https://github.com/zhangtt08/vocal-separator) | 本地 AI 音轨分离：人声/鼓/贝斯/其他四轨，Demucs 离线运行 / Local AI stem separation (Demucs), fully offline |
 | [sucai-downloader](https://github.com/zhangtt08/sucai-downloader) | 素材搜索下载器：聚合 9 个免费图库源，批量下载 / Stock-asset search & batch downloader aggregating 9 free sources |
 | [qingying-downloader](https://github.com/zhangtt08/qingying-downloader) | 清影下载器：yt-dlp + gallery-dl 双引擎，五平台 Cookie 登录 / Video & image downloader with per-site login sessions |
+| [agentcut](https://github.com/zhangtt08/agentcut) | 人和 Agent 共用的本地剪辑软件：Python 剪辑引擎 + HTTP/MCP 接口，界面动作即 Agent 批命令 / Local video editor built for humans AND AI agents |
 | [recorded-automation](https://github.com/zhangtt08/recorded-automation) | 浏览器操作录制 → 可编辑工作流 → 确定性回放 / Record browser actions once, replay deterministically |
 | [jingjie](https://github.com/zhangtt08/jingjie) | Windows 深度清理与启动优化，核心区域保护 / Windows maintenance: cleaning, inventory, startup optimization |
 

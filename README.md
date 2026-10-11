@@ -33,6 +33,8 @@ Local-first desktop software and AI engineering tools. Every public repo clones 
 | [vocal-separator](https://github.com/zhangtt08/vocal-separator) | 本地 AI 音轨分离：人声/鼓/贝斯/其他四轨，Demucs 离线运行 / Local AI stem separation (Demucs), fully offline |
 | [stock-media-downloader](https://github.com/zhangtt08/stock-media-downloader) | 素材搜索下载器：聚合 9 个免费图库源，批量下载 / Stock-asset search & batch downloader aggregating 9 free sources |
 | [multi-platform-video-downloader](https://github.com/zhangtt08/multi-platform-video-downloader) | 清影下载器：yt-dlp + gallery-dl 双引擎，五平台 Cookie 登录 / Video & image downloader with per-site login sessions |
+| [agent-canvas-studio](https://github.com/zhangtt08/agent-canvas-studio) | 面向 AI 智能体的本地图片与排版设计引擎：图层排版、实时预览与多格式导出 / Agent-oriented image & layout design engine with multi-format export |
+| [agent-audio-studio](https://github.com/zhangtt08/agent-audio-studio) | 面向 AI 智能体的本地音频工作台：支持音频一键对齐视频时长、人声分离与多轨编辑 / Agent-oriented local audio workspace with auto-alignment & stem separation |
 | [local-video-editor](https://github.com/zhangtt08/local-video-editor) | 人和 Agent 共用的本地剪辑软件：Python 剪辑引擎 + HTTP/MCP 接口，界面动作即 Agent 批命令 / Local video editor built for humans AND AI agents |
 | [browser-action-recorder](https://github.com/zhangtt08/browser-action-recorder) | 浏览器操作录制 → 可编辑工作流 → 确定性回放 / Record browser actions once, replay deterministically |
 | [windows-deep-cleaner](https://github.com/zhangtt08/windows-deep-cleaner) | Windows 深度清理与启动优化，核心区域保护 / Windows maintenance: cleaning, inventory, startup optimization |
@@ -41,6 +43,7 @@ Local-first desktop software and AI engineering tools. Every public repo clones 
 
 | 项目 / Repo | 用途 / What it does |
 |---|---|
+| [local-workflow-hub](https://github.com/zhangtt08/local-workflow-hub) | 本机工具发现与工作流编排中心：扫描整机能力，支持 DAG 可视化编排与 MCP/REST 统一调用 / Local tool catalog & DAG workflow orchestration with MCP/REST interfaces |
 | [multi-agent-orchestrator](https://github.com/zhangtt08/multi-agent-orchestrator) | 多 Agent 编排框架：Supervisor/Executor/Reviewer、工作区并发、记忆与回归防护 / Harness-agnostic multi-agent orchestration |
 | [ai-project-dashboard](https://github.com/zhangtt08/ai-project-dashboard) | AI 编程项目控制面：真实工程证据、阶段判定、回归与漂移检测 / Control plane aggregating real engineering evidence |
 | [ai-agent-task-scheduler](https://github.com/zhangtt08/ai-agent-task-scheduler) | 定时把真实开发任务交给 Codex/Claude Code 执行，内置 MCP 服务器 / Schedule real dev tasks for CLI coding agents, built-in MCP |
